@@ -14,7 +14,7 @@ I'm passionate about technology, programming, and self-learning. I enjoy buildin
 
 ## 💡 What I’m Learning
 
-- Programming languages: `C`, `C++`, `Java`, `JavaScript`, `PHP`,'python'
+- Programming languages: `C`, `C++`, `Java`, `JavaScript`, `PHP`,`python`
 - Web Development: `HTML`, `CSS`, `ASP.NET`, `WordPress`
 - Databases: `Oracle`
 - UI/UX Design Basics
