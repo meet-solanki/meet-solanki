@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @meet-solanki
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hi, I'm Meet Solanki
 
-<!---
-meet-solanki/meet-solanki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 BCA Student  | 🌐 Tech Enthusiast
+
+---
+
+## 👨‍🎓 About Me
+
+I’m currently pursuing my **Bachelor of Computer Applications (BCA)** at **Shree Saraswati College of Commerce BBA & IT, Dhoraji**, graduating in **2026**.
+
+I'm passionate about technology, programming, and self-learning. I enjoy building clean, functional websites and improving my coding skills every day.
+
+---
+
+## 💡 What I’m Learning
+
+- Programming: `C`, `C++`, `Java`, `JavaScript`, `PHP`
+- Web Development: `HTML`, `CSS`, `ASP.NET`, `WordPress`
+- Databases: `Oracle`
+- UI/UX Design Basics
+- Version Control with Git and GitHub
+
+---
+
+## ⚙️ Skills
+
+| Programming|Web Development| Soft Skills             |
+|------------------|-------------------|--------------------------|
+| C, C++, Java      | HTML, CSS, JS     | Communication            |
+| JavaScript, PHP   | WordPress, ASP.NET| Time Management          |
+| Oracle (DBMS)     | Responsive Design | Teamwork & Collaboration |
+
+---
+
+## 📬 Contact Me
+
+- 📧 Email: meetsolanki8989@gmail.com
+- 🔗 GitHub: [github.com/meet-solanki]
+
