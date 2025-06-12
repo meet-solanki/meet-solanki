@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Meet Solanki
 
-🎓 BCA Student  | 🌐 Tech Enthusiast
+🎓 BCA Student
 
 ---
 
