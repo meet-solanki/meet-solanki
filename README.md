@@ -2,11 +2,6 @@
 
 🎓 BCA Student
 
-<marquee scrollamount="6" direction="left">
-👋 Hi, I'm Meet Solanki — A Curious BCA Student Exploring the World of Code 🌐 💻 🚀
-</marquee>
-
-
 ---
 
 ## 👨‍🎓 About Me
